@@ -1,12 +1,3 @@
-# Google Antigravity SDK
-
-The Google Antigravity SDK is a Python SDK for building AI agents powered by
-Antigravity and Gemini. It provides a secure, scalable, and stateful
-infrastructure layer that abstracts the agentic loop, letting you focus on what
-your agent *does* rather than how it runs.
-
----
-
 ## 🚀 Featured Showcase: AI Document Researcher
 
 This repository also houses the **AI Document Researcher**, a fully local Model Context Protocol (MCP) server built with the Google Agent Development Kit (ADK) and `agents-cli`. 
